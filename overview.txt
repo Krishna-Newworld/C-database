@@ -1,0 +1,20 @@
+This is a normal simple database program
+in which we have use
+
+structs
+
+file handling
+
+file modes(r, b, rb+, wb etc.)
+
+an 'add' function that adds products to the database
+
+a 'modify' function that modifies the product selected
+
+and a 'delete' function that deletes any particular product selected
+
+"define.h" - dedicated to defining a struct and 
+#include"define.h" to use it in multiple files
+
+
+
